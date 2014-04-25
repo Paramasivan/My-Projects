@@ -1,0 +1,422 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pagebody {
+	width:999px;
+	margin:0 auto;
+}
+.top-nav ul {
+	font:600 1em Arial, Helvetica, sans-serif;
+}
+.top-nav ul li {
+	float:left;
+}
+.top-nav ul li a {
+	float:left;
+}
+    .slider-text h1  {
+		font-size:3.33em;
+		padding:30px 0 8px 0;
+	}
+	.slider-text h2  {
+		font-size:1.75em;
+	}
+	.right-service h3 {
+		font-size:2em;
+		padding:0 0 7px 0;
+	}
+	.right-service h4 {
+		font-size:1.167em;
+	}
+	.right-service {
+		padding:16px 0 26px 0;
+    } 
+	img.silver {
+		left:15%;
+		top:45%;
+	}
+	img.gold {
+		left:20%;
+		top:42%;
+	}
+	img.platinum {
+		left:50%;
+		top:48%;
+	}
+	.plans {
+		padding-bottom:115px;
+	}
+	.blue-arrow {
+		height:88px;
+	}
+	.plan-pricing {
+	    margin:0 5px 0px 0;
+	    width:224px;
+	    float:left;
+	    padding:18px 10px 23px 10px;
+    }
+	.plan-pricing.last {
+		margin-right:0;
+	}
+	.plan-pricing h1 {
+		margin:0 0 21px 0;
+	}
+	.icon-light, .icon-silver, .icon-gold, .icon-platinum {
+		margin-bottom:26px;
+	}
+	.plan-pricing h2 {
+		margin:0;
+		height:45px;
+	}
+	.plan-pricing h3 {
+		margin:0;
+		height:93px;
+	}
+	.plan-pricing h4 {
+		margin-bottom:11px;
+	}
+	.video-demo {
+		background:url(../images/bg_demo_videos.jpg) center top no-repeat;
+	}
+	.video-buttons1, .video-buttons2, .video-buttons3 {
+		width:329px;
+		float:left;
+		margin-right:3px;
+    }
+	.video-buttons3 {
+		margin-right:0;
+	}
+	.videos, .videos-jim {
+		padding:30px 0px 0 32px;
+	}
+	.video-div {
+		float:left;
+		width:303px;
+		margin-right:12px;
+	}
+	.play-audio h2, .conf-details h2 {
+		font-size:1.5em;
+		padding-top:5px;
+	}
+	.tour-details {
+		width:625px;
+		float:left;
+		margin:0 52px 1.25em 0;
+	}
+	.event-cal {
+		width:322px;
+		float:left;
+		margin:0 0 1.25em 0;
+	}
+	.get-dir {
+		position:relative;
+		left:-35px;
+	}
+	.comp-reporting h1 {
+		margin-bottom:60px;
+	}
+	.cont-slider {
+		width:100%;
+		margin:0;
+	}
+	.s-image {
+	   width:58.16%;
+	   float:left;
+    }
+	.s-text {
+	   width:39.34%;
+	   margin-left:2%;
+	   float:left;
+    }
+	.app-store {
+		padding-bottom:75px;
+	}
+	.app-store h1 {
+		line-height:2em;
+	}
+	.app-text {
+		padding-left:50%;
+		padding-top:55px;
+	}
+	.contact-form {
+		padding:90px 0 0 0;
+		width:45.2%;
+		float:left;
+		margin-right:5.7%;
+	}
+	.contact-details {
+		padding:0;
+		width:49%;
+		float:left;
+	}
+	.online-chat img {
+		width:340px;
+		max-width:340px;
+	}
+	.social-links {
+	    text-align: left;
+		width:34%;
+		float:left;
+		padding-left:1%;
+    }
+    .copyright {
+	    text-align: right;
+	    padding-top:31px;
+		width:63%;
+		padding-right:2%;
+		float:left;
+    }
+	.mobile-margin {
+	    margin:0;
+    }
+	.page-header h1 {
+		font:400 3.33em/1.2em 'Open Sans', sans-serif;
+	}
+	.page-header h2 {
+		font:400 1.5em/1.2em 'Open Sans', sans-serif;
+	}
+	.header-left {
+		vertical-align:top;
+		text-align:left;
+		width:792px;
+		float:left;
+	}
+	.header-right {
+		width:207px;
+		float:right;
+		vertical-align:top;
+		text-align: left;
+		padding-top:14px;
+	}
+	.support-call span {
+		font-size:22px;
+	}
+	.info-request {
+		margin-top:32px;
+	}
+	.version-name {
+		padding:0 3% 0 7%;
+		width:90%;
+	}
+	.version-title {
+		font:700 1.33em/1em 'Open Sans', sans-serif;
+	}
+	.form-left, .form-right {
+		width:50%;
+		float:left;
+	}
+	.page-left {
+		width:50%;
+		float:left;
+	}
+	.page-right {
+		width:50%;
+		float:left;
+	}
+	.version-details {
+		min-height:461px;
+		padding:37px 7% 30px 7%;
+	}
+	.sub-title, .blue-bar {
+		padding:0 3% 0 2%;
+		width:95%;
+		height:57px;
+	}
+	.sub-title-left {
+		display:table-cell;
+		text-align:left;
+		vertical-align:middle;
+		width:inherit;
+		padding-top:10px;
+	}
+	.sub-title-right {
+		display:table-cell;
+		text-align:right;
+		vertical-align:middle;
+		width: auto;
+		white-space:nowrap;
+		padding-top:11px;
+	}
+	.dollars {
+		font:700 2.9em/0.9em 'Open Sans', sans-serif;
+	}
+	.dollars span {
+		padding:3px 6px 4px 5px;
+		border-radius:6px;
+	}
+	.return-rate {
+		width:45%;
+		float:left;
+	}
+	.investment-risk {
+		width:55%;
+		float:left;
+	}
+	.return-rate img {
+		margin-bottom:0;
+	}
+	.daily-balance {
+		width:536px;
+		float:left;
+	}
+	.daily-earnings {
+		width:463px;
+		float:left;
+	}
+	.avg-investment, .earning-charts { 
+		padding:15px 0 10px 2%;
+		height:216px;
+	}
+	.avg-investment {
+		border-right:1px solid #adbacb;
+		padding-left:5%;
+	}
+	.sub-title {
+		margin-top:29px;
+	}
+	.digits1 {
+		padding-left:5%;
+	}
+	.digits2 {
+		padding-left:7%;
+	}
+	.page-header h1.shifted {
+		margin-top:10px;
+	}
+	.select-header, .select-dropdown, .select-header2, .select-dropdown2 {
+		display:table-cell;
+		vertical-align: middle;
+		width:inherit;
+	}
+	.select-dropdown select {
+		width:334px;
+	}
+	.contact-left {
+		width:41.5%;
+		float:left;
+	}
+	.contact-right {
+		width:58.5%;
+		float:left;
+	}
+	.contact-reach {
+		height:604px;
+	}
+	.form-elements2 {
+		height:630px;
+	}
+	.left-shifted {
+		padding-left:18%;
+		padding-right:8%;
+	}
+	.about-image {
+		width:298px;
+		float:right;
+		margin:35px 0 10px 3%;
+	}
+	.about-image img {
+		width:100%;
+		max-width:100%;
+	}
+	.team-image {
+		float: left;
+	}
+	.team-descr {
+		padding-top:17px;
+	}
+	.mobi-margin2 {
+		margin:0 3.5% 0 4%;
+	}
+	.team-div {
+		padding-bottom:25px;
+	}
+	.team-image2 {
+		float:right;
+	}
+	.rate-of-return {
+		width:234px;
+		float:right;
+	}
+	.usa-map {
+	    margin:20px 4.5% 15px 0%;
+	    width:52%;
+		float:left;
+    }
+	.report-text {
+		display:table-cell;
+		text-align:justify;
+		vertical-align:top;
+	}
+	.reportimg1, .reportimg2, .reportimg3 {
+		width:41%;
+		display:table-cell;
+		text-align:center;
+		vertical-align:top;
+	}
+	.gasb-sub-title {
+		padding:34px 0 34px 3.5%;
+	}
+	.table16 td {
+		font-size:1.167em;
+		font-weight:600;
+	}
+	.table16 tr.headrow td {
+		font-size:1.167em;
+	}
+	.total-value {
+		float:right;
+	}
+	.video-title {
+		display:table-cell;
+		text-align:left;
+		vertical-align:middle;
+		width:inherit;
+	}
+	.author {
+		display:table-cell;
+		text-align:right;
+		vertical-align:middle;
+		width: auto;
+		white-space:nowrap;
+	}
+	.setup-sub-title {
+		padding:34px 4% 34px 3.5%;
+	}
+	.stepcarousel .panel {
+		margin:10px 25px;
+		width:280px;
+	}
+	.roundabout-holder {
+		width: 80%;
+	}
+	.roundabout-moveable-item {
+		width: 60%;
+	}
+	.round-table-slider {
+		padding-left:20%;
+	}
+	.select-amount select, .my-preference select {
+		width:430px;
+	}
+	.my-preference {
+		display:table-cell;
+		width:auto;
+		vertical-align:middle;
+	}
+	.choose-calendar {
+		display:table-cell;
+		width:inherit;
+		vertical-align:middle;
+	}
+	.event-left {
+		display:table-cell;
+		width:205px;
+		vertical-align:top;
+		text-align:left;
+	}
+	.event-right {
+		display:table-cell;
+		vertical-align:top;
+		text-align:left;
+		width:inherit;
+	}
